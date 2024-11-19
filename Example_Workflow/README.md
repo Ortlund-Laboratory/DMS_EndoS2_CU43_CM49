@@ -1,3 +1,28 @@
 # Example of Workflow to Calculate Binding Scores
 
-Fc variant binding to CM49 was investigated, and reference, tighter-binding and weaker-binding populations collected for sequencing. These sequences can be processed to give scores for both tighter and weaker binders
+Fc variant binding to CM49 was investigated, and reference, tighter-binding and weaker-binding populations collected for sequencing. These sequences can be processed to give scores for both tighter and weaker binders.
+
+## Input Files Required
+
+[SnakeFile](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/Snakefile)<br>
+Gives overall instructions for the `snakemake` workflow.<br>
+[config.yaml](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/config.yaml)<br>
+Configuration script controlling variables used by Jupyter notebooks.<br>
+[build_variants.ipynb](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/build_variants.ipynb)<br>
+Builds a barcode variant table based on the data from the processed PacBio CCSs.<br>
+[R2_to_R1.py](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/R2_to_R1.py)<br>
+Converts barcodes located at the R2 end to the R1 end by taking the reverse complement. This allows the barcodes to be read and parsed correctly by the [illuminabarcodeparser](https://jbloomlab.github.io/dms_variants/dms_variants.illuminabarcodeparser.html#dms_variants.illuminabarcodeparser.IlluminaBarcodeParser) algorithm.<br>
+[count_variants.ipynb](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/count_variants.ipynb)<br>
+Counts the number of times a barcode (and by extension a variant) appears in each Illumina barcode sequencing sample.<br>
+[scripts/run_nb.py](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/scripts/run_nb.py)<br>
+Runs Jupyter notebooks and creates Markdown output.<br>
+[data/feature_parse_specs.yaml](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/data/feature_parse_specs.yaml)<br>
+Script for controlling the sequence parsing strategy.<br>
+[data/PacBio_amplicons.gb](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/data/PacBio_amplicons.gb)<br>
+GeneBank data file describing sequence features.<br>
+[data/barcode_runs.csv](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/data/barcode_runs.csv)<br>
+List of Illumina barcode samples to be analyzed by the snakemake workflow.<br>
+[data/processed_ccs.csv](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/data/processed_ccs.csv)<br>
+Processed PacBio CCSs, generated from our [PacBio_Library_Sequencing](https://github.com/Ortlund-Laboratory/DMS_IgG1Fc/tree/main/PacBio_Library_Sequencing) routine. Ensure the library is consistent with those used for the assay.<br>
+[data/wildtype_sequence.fasta](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/data/wildtype_sequence.fasta)<br>
+Fc wildtype sequence.<br>
