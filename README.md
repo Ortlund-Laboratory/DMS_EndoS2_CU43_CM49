@@ -86,4 +86,4 @@ PacBio library sequencing is required to connect variants to their respective ba
 
 ## Example Workflow
 
-Using selection for CM49 weaker binders as an example, input files and scripts for the calculation and presentation of binding scores are provided in XXXX.
+Using selection for CM49 weaker binders as an example, input files and scripts for the calculation and presentation of binding scores are provided in [Example_Workflow](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/tree/main/Example_Workflow).
