@@ -43,4 +43,9 @@ Run `snakemake` using specified number of cores:
 
 `snakemake -j 6`
 
+## Key Output
 
+[results/counts/barcode_fates.csv](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/results/counts/barcode_fates.csv)<br>
+Tally of barcodes classified and filtered according to quality.<br>
+[results/counts/variant_counts.csv](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/results/counts/variant_counts.csv)<br>
+Tally of individual barcode counts for each sample.<br>
