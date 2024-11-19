@@ -49,3 +49,7 @@ Run `snakemake` using specified number of cores:
 Tally of barcodes classified and filtered according to quality.<br>
 [results/counts/variant_counts.csv](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/results/counts/variant_counts.csv)<br>
 Tally of individual barcode counts for each sample.<br>
+
+## Binding Score Generation & Data Visualization
+
+Go to [scores_and_visualization](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/blob/main/Example_Workflow/scores_and_visualization) for tight-binding and/or weaker-binding score calculation and heatmap generation.
