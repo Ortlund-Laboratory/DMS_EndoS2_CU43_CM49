@@ -33,4 +33,14 @@ The workflow operates on Illumina barcode sequencing data in fastq.gz format and
 
 **I SHOULD UPLOAD THESE FILES TO NCBI SRA**<br>
 
+## Workflow
+
+Use the `snakemake` environment:
+
+`conda activate snakemake`
+
+Run `snakemake` using specified number of cores:
+
+`snakemake -j 6`
+
 
