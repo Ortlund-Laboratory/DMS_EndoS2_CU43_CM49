@@ -84,4 +84,6 @@ For the Twist library used, see our [DMS_IgG1Fc](https://github.com/Ortlund-Labo
 
 PacBio library sequencing is required to connect variants to their respective barcodes. This process is described in [PacBio_Library_Sequencing](https://github.com/Ortlund-Laboratory/DMS_IgG1Fc/tree/main/PacBio_Library_Sequencing) within the [DMS_IgG1Fc](https://github.com/Ortlund-Laboratory/DMS_IgG1Fc/tree/main) repository.
 
+## Example Workflow
 
+Using selection for CM49 weaker binders as an example, input files and scripts for the calculation and presentation of binding scores are provided in XXXX.
