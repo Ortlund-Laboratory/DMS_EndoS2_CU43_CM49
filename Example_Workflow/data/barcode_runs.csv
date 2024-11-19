@@ -1,0 +1,6 @@
+library,sample,date,experiment,antibody,concentration,concentration_units,group,selection,frac_escape,cells_sorted,R1
+Fc-Lib01,exp01-none-0-reference,230725,exp01,none,0,ng_per_mL,none,reference,NaN,5000000,/home/adkeith@Eu.Emory.Edu/DMS_Workflow/Fc_Data/p23139_analysis/p23139-s005_FcLib-1-Mycpos-ref_S115_L001_R2_001.fastq.gz
+Fc-Lib01,exp02-CU43top-2000-escape,230725,exp02,CU43top,2000,ng_per_mL,DK,escape,0.15,1000000,/home/adkeith@Eu.Emory.Edu/DMS_Workflow/Fc_Data/p23139_analysis/p23139-s001_CU43-Top_S111_L001_R2_001.fastq.gz
+Fc-Lib01,exp03-CU43bottom-2000-escape,230725,exp03,CU43bottom,2000,ng_per_mL,DK,escape,0.15,1000000,/home/adkeith@Eu.Emory.Edu/DMS_Workflow/Fc_Data/p23139_analysis/p23139-s002_CU43-Bottom_S112_L001_R2_001.fastq.gz
+Fc-Lib01,exp04-CM49top-2000-escape,230725,exp04,CM49top,2000,ng_per_mL,DK,escape,0.15,1000000,/home/adkeith@Eu.Emory.Edu/DMS_Workflow/Fc_Data/p23139_analysis/p23139-s003_CM49-Top_S113_L001_R2_001.fastq.gz
+Fc-Lib01,exp05-CM49bottom-2000-escape,230725,exp05,CM49bottom,2000,ng_per_mL,DK,escape,0.15,1000000,/home/adkeith@Eu.Emory.Edu/DMS_Workflow/Fc_Data/p23139_analysis/p23139-s004_CM49-Bottom_S114_L001_R2_001.fastq.gz
