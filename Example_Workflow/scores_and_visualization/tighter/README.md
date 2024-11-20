@@ -17,7 +17,7 @@ rstudio BarcodeMapping_CM49top.R
 
 ## Key Output
 
-[FcgR2b_Enrich_fractions.csv](https://github.com/Ortlund-Laboratory/DMS_EndoS2_CU43_CM49/blob/main/Example_Workflow/scores_and_visualization/enrichment/output/FcgR2b_Enrich_fractions.csv)<br>
-Log of each mutation and its associated enrichment score.<br>
-[FcgR2b_Enrich_Fraction_heatmap01.png](https://github.com/Ortlund-Laboratory/DMS_EndoS2_CU43_CM49/blob/main/Example_Workflow/scores_and_visualization/enrichment/output/FcgR2b_Enrich_Fraction_heatmap01.png)<br>
-Heatmap of enrichments for all single-point FcγR2b variants.<br>
+[CM49top_Tighter_fractions.csv](https://github.com/Ortlund-Laboratory/DMS_EndoS2_CU43_CM49/blob/main/Example_Workflow/scores_and_visualization/enrichment/output/CM49_Tighter_fractions.csv)<br>
+Log of each mutation and its associated tighter-binding score.<br>
+[CM49_TighterFraction_heatmap01.png](https://github.com/Ortlund-Laboratory/DMS_EndoS2_CU43_CM49/blob/main/Example_Workflow/scores_and_visualization/enrichment/output/CM49_TighterFraction_heatmap01.png)<br>
+Heatmap of tighter-binding scores for all single-point Fc variants.<br>
