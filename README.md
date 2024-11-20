@@ -1,5 +1,5 @@
-# DMS_EndoS_CU43_CM49
-Repo for research related to paper studying EndoS, CU43 and CM49 with deep mutational scanning
+# DMS_EndoS2_CU43_CM49
+Repo for research related to paper studying EndoS2, CU43 and CM49 with deep mutational scanning
 
 ## Paper
 Paper can be found [here]need to provide link when available.
