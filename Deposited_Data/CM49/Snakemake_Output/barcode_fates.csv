@@ -1,0 +1,26 @@
+fate,count,library,sample
+valid barcode,48845886,Fc-Lib01,exp01-none-0-reference
+invalid barcode,30161220,Fc-Lib01,exp01-none-0-reference
+low quality barcode,8494084,Fc-Lib01,exp01-none-0-reference
+unparseable barcode,4249050,Fc-Lib01,exp01-none-0-reference
+failed chastity filter,0,Fc-Lib01,exp01-none-0-reference
+valid barcode,8885627,Fc-Lib01,exp02-CU43top-2000-escape
+invalid barcode,5441454,Fc-Lib01,exp02-CU43top-2000-escape
+low quality barcode,1541972,Fc-Lib01,exp02-CU43top-2000-escape
+unparseable barcode,746587,Fc-Lib01,exp02-CU43top-2000-escape
+failed chastity filter,0,Fc-Lib01,exp02-CU43top-2000-escape
+valid barcode,7629529,Fc-Lib01,exp03-CU43bottom-2000-escape
+invalid barcode,5722947,Fc-Lib01,exp03-CU43bottom-2000-escape
+low quality barcode,1355329,Fc-Lib01,exp03-CU43bottom-2000-escape
+unparseable barcode,666017,Fc-Lib01,exp03-CU43bottom-2000-escape
+failed chastity filter,0,Fc-Lib01,exp03-CU43bottom-2000-escape
+valid barcode,7303517,Fc-Lib01,exp04-CM49top-2000-escape
+invalid barcode,4809533,Fc-Lib01,exp04-CM49top-2000-escape
+low quality barcode,1260319,Fc-Lib01,exp04-CM49top-2000-escape
+unparseable barcode,641965,Fc-Lib01,exp04-CM49top-2000-escape
+failed chastity filter,0,Fc-Lib01,exp04-CM49top-2000-escape
+valid barcode,8217872,Fc-Lib01,exp05-CM49bottom-2000-escape
+invalid barcode,5423142,Fc-Lib01,exp05-CM49bottom-2000-escape
+low quality barcode,1215450,Fc-Lib01,exp05-CM49bottom-2000-escape
+unparseable barcode,691515,Fc-Lib01,exp05-CM49bottom-2000-escape
+failed chastity filter,0,Fc-Lib01,exp05-CM49bottom-2000-escape
