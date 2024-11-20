@@ -17,7 +17,7 @@ rstudio BarcodeMapping_CM49top.R
 
 ## Key Output
 
-[CM49top_Tighter_fractions.csv](https://github.com/Ortlund-Laboratory/DMS_EndoS2_CU43_CM49/blob/main/Example_Workflow/scores_and_visualization/tighter/output/CM49_Tighter_fractions.csv)<br>
+[CM49top_Tighter_fractions.csv](https://github.com/Ortlund-Laboratory/DMS_EndoS2_CU43_CM49/blob/main/Example_Workflow/scores_and_visualization/tighter/output/CM49top_Tighter_fractions.csv)<br>
 Log of each mutation and its associated tighter-binding score.<br>
-[CM49_TighterFraction_heatmap01.png](https://github.com/Ortlund-Laboratory/DMS_EndoS2_CU43_CM49/blob/main/Example_Workflow/scores_and_visualization/tighter/output/CM49_TighterFraction_heatmap01.png)<br>
+[CM49top_TighterFraction_heatmap01.png](https://github.com/Ortlund-Laboratory/DMS_EndoS2_CU43_CM49/blob/main/Example_Workflow/scores_and_visualization/tighter/output/CM49top_TighterFraction_heatmap01.png)<br>
 Heatmap of tighter-binding scores for all single-point Fc variants.<br>
