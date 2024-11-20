@@ -86,4 +86,8 @@ PacBio library sequencing is required to connect variants to their respective ba
 
 ## Example Workflow
 
-Using selection for CM49 binders as an example, input files and scripts for the calculation and presentation of binding scores are provided in [Example_Workflow](https://github.com/Ortlund-Laboratory/DMS_EndoS_CU43_CM49/tree/main/Example_Workflow).
+Using selection for CM49 binders as an example, input files and scripts for the calculation and presentation of binding scores are provided in [Example_Workflow](https://github.com/Ortlund-Laboratory/DMS_EndoS2_CU43_CM49/tree/main/Example_Workflow).
+
+## Deposited Data
+
+Relevant input/output data are deposited in the [Deposited_Data](https://github.com/Ortlund-Laboratory/DMS_EndoS2_CU43_CM49/tree/main/Deposited_Data) subfolder. Large sequencing files which cannot be maintained on GitHub are provided in external databases, and links are provided. Between these and the example workflows, users should be able to recreate our results. Should issues arise, please contact adkeith@emory.edu or eortlun@emory.edu. 
