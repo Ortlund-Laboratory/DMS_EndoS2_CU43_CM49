@@ -20,8 +20,8 @@ library(svglite)
 antibody <- "CM49bottom"
 ab_name <- antibody
 
-Weaker_counts <- read_tsv("/home/adkeith@Eu.Emory.Edu/DMS_Workflow/Fc_Data/R_p23139_analysis/CM49bottom/sp_nwt_escape.txt")
-input_counts <- read_tsv("/home/adkeith@Eu.Emory.Edu/DMS_Workflow/Fc_Data/R_p23139_analysis/CM49bottom/sp_nwt_input.txt")
+Weaker_counts <- read_tsv("/home/adkeith@Eu.Emory.Edu/DMS_Workflow/Fc_Data/R_p23139_analysis/CM49bottom/escape_variant_counts.txt")
+input_counts <- read_tsv("/home/adkeith@Eu.Emory.Edu/DMS_Workflow/Fc_Data/R_p23139_analysis/CM49bottom/ref_variant_counts.txt")
 
 Weaker_counts <- Weaker_counts[,2:3]
 input_counts <- input_counts[,2:3]
