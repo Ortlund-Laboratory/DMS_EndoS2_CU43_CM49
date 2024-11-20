@@ -1,4 +1,4 @@
-**Note** EndoS2 DMS analysis was performed before A.D.Keith joined the project. For sequencing and processing files, contact eortlun@emory.edu for details.
+**Note** EndoS2 DMS analysis was performed before A.D.Keith joined the project. For sequencing and processing files, contact eortlun@emory.edu.
 
 ## File Organization
 
