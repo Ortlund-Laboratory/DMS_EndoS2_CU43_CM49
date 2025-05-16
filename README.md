@@ -2,7 +2,7 @@
 Repo for research related to paper studying EndoS2, CU43 and CM49 with deep mutational scanning
 
 ## Paper
-Paper can be found [here]need to provide link when available.
+The mechanistic basis for interprotomer deglycosylation of antibodies by Corynebacterial IgG specific endoglycosidases 
 
 ## Analysis Workflow
 ### Build Computing Environment
