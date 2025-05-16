@@ -31,7 +31,19 @@ Fc wildtype sequence.<br>
 
 The workflow operates on Illumina barcode sequencing data in fastq.gz format and these files are kept compressed throughout. File location and name should match the listings given in [data/barcode_runs.csv](https://github.com/Ortlund-Laboratory/DMS_EndoS2_CU43_CM49/blob/main/Example_Workflow/data/barcode_runs.csv). These files are too large to be contained in GitHub, and so are found, respectively, at:
 
-**I SHOULD UPLOAD THESE FILES TO NCBI SRA**<br>
+**NCBI**<br>
+Overall BioProject: [PRJNA1263835](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1263835)
+
+**EndoS2**<br>
+
+
+**CM49**<br>
+
+**CU43**<br>
+
+**Reference for EndoS2 experiments**<br>
+
+**Reference for CM49 and CU43 experiments**<br>
 
 ## Workflow
 
