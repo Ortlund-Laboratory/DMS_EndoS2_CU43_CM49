@@ -1,6 +1,9 @@
 # DMS_EndoS2_CU43_CM49
 Repo for research related to paper studying EndoS2, CU43 and CM49 with deep mutational scanning
 
+[![DOI](https://zenodo.org/badge/891165383.svg)](https://doi.org/10.5281/zenodo.15446472)
+
+
 ## Paper
 The mechanistic basis for interprotomer deglycosylation of antibodies by Corynebacterial IgG specific endoglycosidases 
 
