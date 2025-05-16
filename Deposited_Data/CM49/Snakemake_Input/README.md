@@ -1,5 +1,6 @@
-Need external links for:
+**Sequences to be found at NCBI:**
 
-Reference sample: [XXXXX](https://www.ncbi.nlm.nih.gov/sra/SRX23979936[accn]) or search NCBI SRA Accession XXXXX.<br>
-Enrichment sample: [YYYYY](https://www.ncbi.nlm.nih.gov/sra/SRX23979937[accn]) or search NCBI SRA Accession YYYYY.<br>
-Escape sample: [ZZZZZ](https://www.ncbi.nlm.nih.gov/sra/SRX23979937[accn]) or search NCBI SRA Accession ZZZZZ.<br>
+Overall BioProject: [PRJNA1263835](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1263835)
+
+Reference BioSample: [SAMN48541626](https://www.ncbi.nlm.nih.gov/biosample/?term=SAMN48541626)
+Tighter/weaker binding BioSamples: [SAMN48540122](https://www.ncbi.nlm.nih.gov/biosample/?term=SAMN48540122)
