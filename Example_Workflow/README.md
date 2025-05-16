@@ -35,15 +35,19 @@ The workflow operates on Illumina barcode sequencing data in fastq.gz format and
 Overall BioProject: [PRJNA1263835](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1263835)
 
 **EndoS2**<br>
-
+BioSample: [SAMN48540912](https://www.ncbi.nlm.nih.gov/biosample/?term=SAMN48540912)
 
 **CM49**<br>
+BioSample: [SAMN48540122](https://www.ncbi.nlm.nih.gov/biosample/?term=SAMN48540122)
 
 **CU43**<br>
+BioSample: [SAMN48540644](https://www.ncbi.nlm.nih.gov/biosample/?term=SAMN48540644)
 
 **Reference for EndoS2 experiments**<br>
+BioSample: [SAMN48541669](https://www.ncbi.nlm.nih.gov/biosample/?term=SAMN48541669)
 
 **Reference for CM49 and CU43 experiments**<br>
+BioSample: [SAMN48541626](https://www.ncbi.nlm.nih.gov/biosample/?term=SAMN48541626)
 
 ## Workflow
 
